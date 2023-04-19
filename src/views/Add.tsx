@@ -1,7 +1,7 @@
 function Add() {
   return (
     <>
-      <h1 className="text-black text-2xl">Hello, World</h1>
+      <h1 className="text-black text-2xl">Hello, from Add</h1>
       </>
   );
 }
